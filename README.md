@@ -10,7 +10,7 @@ I'm currently learning Python as part of my journey towards cybersecurity, and I
 * [x] Chapter 2
 * [x] Chapter 3
 * [x] Chapter 4
-* [ ] Chapter 5
+* [x] Chapter 5
 * [ ] Chapter 6
 * [ ] More to come
 
